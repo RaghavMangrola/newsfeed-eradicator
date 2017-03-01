@@ -1,6 +1,8 @@
-### Newsfeed Eradicator for Safari.
-Newsfeed eradicator for Chrome was originally created by Jordwest [Open Source](https://github.com/jordwest/news-feed-eradicator). 
+# Newsfeed Eradicator for Safari.
+Newsfeed eradicator for Safari was originally created by [AntonOsika](https://github.com/AntonOsika/newsfeed-eradicator).
 
-I used and liked his Chrome extension a lot, but I like safari for it's power management. I did not replace the newsfeed with quotes as they got annoying after a while. The extension only removes the newsfeed.
+I removed everything from the Facebook page other then the navigation bar.
 
-Please mail me any opinions anton.osika@gmail.com, or submit them as issues here.
+![](assets/facebookEradicated.png)
+
+Without a Safari Extensions you'll only be able to use this extension temporary using Safari's Extension Builder
